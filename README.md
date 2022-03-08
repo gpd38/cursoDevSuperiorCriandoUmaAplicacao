@@ -1,4 +1,4 @@
-# Curso DevSuperior criando uma aplicacao
+# Curso DevSuperior criando uma aplicacao de Filme
 
 
 <p align="center">
