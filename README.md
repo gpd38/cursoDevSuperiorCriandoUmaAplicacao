@@ -36,6 +36,9 @@
 	</tr>
 </table>
 
+### Discord
+Criamos um grupo para continuar os estudos: [Discord]()
+
 ### Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
